@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @willnearn
-- 👀 I’m interested in getting better at programming by playing around on here!
-- 🌱 I’m currently learning C++ and Python
-- 📫 williamnearn@gmail.com
+👋 Hi, I’m @willnearn  
+👀 I’m interested in expanding my programming skills by playing around on here!  
+🌱 Goals:  
+- Dabble with C++  
+- Dabble with Python's TensorFlow  
+
+📫 williamnearn@gmail.com  
+🚀 Completed Projects:  
+- [Chatbot](https://www.umitalks-coffee.com/) for [Heavenly Hawaiian Coffee Farm](https://heavenlyhawaiian.com/)
 

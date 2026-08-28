@@ -5,6 +5,7 @@ Project Ideas:
 - Multiply features as the nonlinearity in NNs; evaluate expressive efficacy on problems with known multiplicative interactions (e.g. physics). Project will happen [here](https://github.com/willnearn/multiply_layers)
 - Make a robot do something interesting using ROS2 as the middleware
 - (markdown only) Jot down thoughts on what it means to be productive now that LLMs can automate many things that used to be expensive
+- Adapt JEPAs for something (must read more about JEPAs first..)
 
 📫 williamnearn@gmail.com  
 
